@@ -1,0 +1,38 @@
+{
+  "table_header": {
+    "font_name": "Calibri",
+    "font_size_pt": 14,
+    "font_bold": true,
+    "font_italic": false,
+    "font_color": "000000",
+    "bg_color": "00B0F0",
+    "alignment": "center",
+    "vertical_alignment": "middle"
+  },
+  "table_body": {
+    "font_name": "Calibri",
+    "font_size_pt": 12,
+    "font_bold": false,
+    "font_italic": false,
+    "font_color": "000000",
+    "alignment": "left",
+    "vertical_alignment": "middle"
+  },
+  "section_title": {
+    "font_name": "Tahoma",
+    "font_size_pt": 20,
+    "font_bold": true,
+    "font_italic": false,
+    "font_color": "14366B"
+  },
+  "rag_legend": {
+    "font_name": "Tahoma",
+    "font_size_pt": 8.5
+  },
+  "skip_slides": [
+    1,
+    2
+  ],
+  "skip_picture_only_slides": true,
+  "skip_placeholder_slides": true
+}

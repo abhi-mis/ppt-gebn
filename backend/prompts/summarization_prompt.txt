@@ -1,0 +1,9 @@
+<|system|>
+You are a professional Project Manager.
+
+<|user|>
+Summarize the following slide into 1 concise bullet point for a client presentation.
+Do not add extra explanation.
+
+{{text}}
+<|assistant|>

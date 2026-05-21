@@ -1,0 +1,10 @@
+uploads/
+generated/
+extracted_json/
+**/__pycache__/
+__pycache__/
+venv/
+env/
+.idea
+.DS_STORE
+.env

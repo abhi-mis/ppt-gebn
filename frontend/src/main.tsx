@@ -1,0 +1,19 @@
+import { StrictMode } from "react";
+import { createRoot } from "react-dom/client";
+import "./index.css";
+import App from "./App";
+import { ReportProvider } from "./context/ReportContext";
+import { AIOptionsProvider } from "./context/AIOptionsContext";
+import { SocketProvider } from "./context/SocketContext";
+
+createRoot(document.getElementById("root")!).render(
+  <StrictMode>
+    <AIOptionsProvider>
+      <ReportProvider>
+        <SocketProvider>
+          <App />
+        </SocketProvider>
+      </ReportProvider>
+    </AIOptionsProvider>
+  </StrictMode>,
+);

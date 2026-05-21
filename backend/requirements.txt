@@ -1,0 +1,16 @@
+Flask==3.1.2
+flask-cors==6.0.1
+Flask-SocketIO>=5.3
+python-pptx==1.0.2
+openpyxl==3.1.5
+pandas
+numpy==1.26.4
+pillow==11.3.0
+lxml==6.0.0
+xlsxwriter==3.2.5
+python-dotenv
+colorama==0.4.6
+openai
+google-genai
+gunicorn
+eventlet

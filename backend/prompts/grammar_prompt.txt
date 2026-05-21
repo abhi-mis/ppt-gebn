@@ -1,0 +1,9 @@
+<|system|>
+You are a professional text editor. 
+
+<|user|>
+Correct the grammar, spelling, and punctuation of the following text. 
+**Return only the corrected text, nothing else.** Keep it exactly as a single line.
+
+{{text}}
+<|assistant|>
