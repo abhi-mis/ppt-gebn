@@ -121,7 +121,7 @@ const Landing = () => {
             <span style={{ color: "var(--accent)" }}>project report</span>
           </h1>
           <p style={{ fontSize: 15, color: "var(--text-secondary)", lineHeight: 1.6, maxWidth: 400, margin: "0 auto" }}>
-            Upload your Excel data files and a PowerPoint template to create a polished status report.
+            Upload your Excel data files to create a polished status report.
           </p>
         </div>
 
